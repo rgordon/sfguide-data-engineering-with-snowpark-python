@@ -3,9 +3,10 @@
 
 [default]
 account = "myaccount"
-user = "myuser"
-password = "mypassword"
+user = "user8"
+password = "bD9v2svAiOzm"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
 database = "HOL_DB"
 schema = "ANALYTICS"
+
